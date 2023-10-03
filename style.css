@@ -1,0 +1,23 @@
+/* p{
+    color: rgba(194, 67, 12, 0.918);
+} */
+/* div{
+    height: 300px;
+    width: 200px;
+    background-color: rgb(92, 163, 239);
+    opacity: 0.6;
+} */
+body{
+    /* background-image: url("kitten.png");
+    background-repeat: no-repeat; */
+    /* no-repeat- for not repeating an image */
+    /* background-repeat: repeat-x(x direction mei repeat hoga) */
+   /* background-repeat: repeat-y(y direction mei repeat hoga) */
+    /* background-attachment: scroll;  */
+     /* scroll;fixed(attachment) */
+     background: url("kitten.png") no-repeat;
+     /* this above code is used to do the previous 3 codes in a single line */
+}
+/* p{
+    background-image: url("demo-image.jpg");
+} */
